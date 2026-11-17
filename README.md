@@ -1,3 +1,9 @@
+[![make.fun best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Pemulungkoin99/starlight-salvage/rank.svg)](https://make.fun/bounty/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Pemulungkoin99/starlight-salvage/reward.svg)](https://make.fun/bounty/best-game-01)
+
+Entered in [Make the best game](https://make.fun/bounty/best-game-01) on make.fun.
+
 # Starlight Salvage — a make.fun best-game-01 entry
 
 A top-down salvage game in plain ES modules: no engine, no build step, no network. The fleet
